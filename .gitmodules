@@ -1,0 +1,6 @@
+[submodule "techradar-backend"]
+	path = techradar-backend
+	url = https://github.com/samuelgamito/techradar-backend
+[submodule "techradar-frontend"]
+	path = techradar-frontend
+	url = https://github.com/samuelgamito/techradar-frontend
